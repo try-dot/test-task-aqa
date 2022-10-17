@@ -1,2 +1,5 @@
 .idea
-build
+/build/
+/target/test-classes/
+/target/generated-test-sources/
+/target/maven-status/
