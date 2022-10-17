@@ -1,5 +1,5 @@
 ## Test task structure:
-1. `TestCase.pdf` - 3 test cases
+1. `TestCases.pdf` - 3 test cases
 2. `BugReports.pdf` - 3 bug reports
 3. `src/test/java/LoginPageTest.java` - 3 autotests for login form
    * `src/test/java/pages/LoginPage.java` - Page Object for login page

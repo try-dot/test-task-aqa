@@ -19,7 +19,7 @@ class LoginPageTest {
     }
 
     @BeforeEach
-    void tearDown(){
+    void tearDown() {
         closeWebDriver();
     }
 
