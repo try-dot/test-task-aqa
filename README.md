@@ -3,7 +3,7 @@
 2. `BugReports.pdf` - 3 bug reports
 3. `src/test/java/LoginPageTest.java` - 3 autotests for login form
    * `src/test/java/pages/LoginPage.java` - Page Object for login page
-4. `src/test/java/APITest.java` - autotest to receive data from the endpoint and compare
+3. `src/test/java/APITest.java` - autotest to receive data from the endpoint and compare
    response JSON schema with the provided schema
    * `src/test/java/resources/WEHatfgD.json` - the provided schema
 
